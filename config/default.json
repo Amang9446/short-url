@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://amancodegaragetech:aDlMOOGNaAREM8iR@cluster0.btgbiqe.mongodb.net/?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
